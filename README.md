@@ -2,7 +2,7 @@
 - 👀 I’m an aspiring UX/UI designer, iterating and designing to create a change in the world.
 - 🌱 I’m currently an intern at InternHacks as well as the Publicity Director of ASUCD!
 - 💞️ I’m looking to collaborate on hackathons, passion projects, and more!
-- 📫 Reach out on [hello@kongee.info], and visit my website [kongee.info] for my work samples!
+- 📫 Reach out on [mailto:hello@kongee.info], and visit my website [https://kongee.info] for my work samples!
 
 <!---
 kongee-illust/kongee-illust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
