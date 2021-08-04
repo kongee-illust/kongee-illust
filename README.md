@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sally, a 3rd-year Design student at UC Davis!
-- 👀 I’m an aspiring UX/UI designer, iterating and designing to create a change in the world.
-- 🌱 I’m currently an intern at InternHacks as well as the Publicity Director of ASUCD!
+- 👀 I’m a product designer, iterating and designing to create a change in the world.
+- 🌱 I’m currently an intern at University of Michigan's UI design team, as well as the Publicity Director of ASUCD!
 - 💞️ I’m looking to collaborate on hackathons, passion projects, and more!
 - 📫 Reach out on [mailto:hello@kongee.info], and visit my website [https://kongee.info] for my work samples!
 
